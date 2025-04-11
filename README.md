@@ -27,7 +27,7 @@ Explorar, visualizar y extraer conclusiones preliminares sobre la calidad del ai
 
 Algunos gráficos incluidos en el análisis:
 
-![Gráfico de partículas PM10 y PM2.5](images/grafico_ejemplo.png)
+![Gráfico de partículas PM10 y PM2.5](grafico_ejemplo.png)
 
 ---
 
